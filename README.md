@@ -12,5 +12,5 @@
 ---
 # [Gllacy](https://musing-keller-8f63ca.netlify.app/), [gitHub](https://github.com/polinakhari/276711-gllacy)
 # [Technomart](https://fervent-montalcini-fcab42.netlify.app/index.html), [gitHub](https://github.com/polinakhari/276711-technomart)
-# [Sedona][gitHub](https://github.com/polinakhari/276711-sedona/)
+# [Sedona](https://github.com/polinakhari/276711-sedona/)
 
